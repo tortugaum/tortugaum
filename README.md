@@ -1,4 +1,4 @@
-##I'm Luiz 👨‍💻
+## I'm Luiz 👨‍💻
 
 ## I'm a developer studying to be full stack
 :computer: I'm currently studying c# (.net)
@@ -15,7 +15,7 @@
 </br>
 
 ### My abilities
-
+</br>
 👩‍💻 Languages 
 [<img align="left" width="22px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>]
 [<img align="left" width="22px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>]
@@ -27,11 +27,13 @@
 ⚡ Database
 [<img align="left" width="22px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>]
 
+</br>
 :gem: Other
 [<img align="left" width="22px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>]
 [<img align="left" width="22px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>]
 [<img align="left" width="22px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>]
-
+</br>
+</br>
 
 
 [linkedin] : https://www.linkedin.com/in/luiz-felipe-forcato-b88144188/
