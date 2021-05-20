@@ -1,6 +1,5 @@
 ## I'm Luiz 👨‍💻
- Currently working as an **IT Analyst** acting as a full stack developer and support analyst. I am at my fourth and last year of **Computer Science** at **UNIP**
- I live in São José dos Campos, Brazil
+ Currently working as an **IT Analyst** acting as a full stack developer and support analyst. I am at my fourth and last year of **Computer Science** at **UNIP** . I live in São José dos Campos, Brazil
 ## I'm a developer studying to be full stack
 - :computer: I'm currently studying c# (.net)
 - :snake: I want to study a little bit o python in the near future
@@ -37,7 +36,7 @@
 </br>
 </br>
 
-![](https://raw.githubusercontent.com/tortugaum/github-stats-transparent/output/generated/languages.svg)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?tortugaum" frameborder="0"></iframe>
 
 [linkedin]: https://www.linkedin.com/in/luiz-felipe-forcato-b88144188
 [instagram]: https://www.instagram.com/luiz_felipe_f
