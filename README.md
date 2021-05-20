@@ -14,6 +14,7 @@
 </br>
 
 ## My abilities
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tortugaum)
 ### 👩‍💻 Languages 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
@@ -42,8 +43,7 @@
 
 </br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tortugaum)
-
+![]<iframe width="600" height="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortugaum" frameborder="0"></iframe>
 
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
