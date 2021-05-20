@@ -14,8 +14,6 @@
 </br>
 
 ### My abilities
-</br>
-</br>
 👩‍💻 Languages 
 <img align="left" width="50px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align="left" width="50px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
