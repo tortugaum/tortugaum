@@ -1,18 +1,16 @@
 ## I'm Luiz 👨‍💻
 
 ## I'm a developer studying to be full stack
-:computer: I'm currently studying c# (.net)
-:snake: I want to study a little bit o python in the near future
-:handshake: I hope I can collaborate with other developers
-:guitar: I also like to play the guitar in my free time
-:video_game: When I'm not playing games /\ 
-
+- :computer: I'm currently studying c# (.net)
+- :snake: I want to study a little bit o python in the near future
+- :handshake: I hope I can collaborate with other developers
+- :guitar: I also like to play the guitar in my free time
+- :video_game: When I'm not playing games /\ 
 
 ## Contacts
 [<img align="left" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-<img align="left" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>[()]
+<img align="left" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>[(instagram)]
 
-</br>
 
 ### My abilities
 </br>
