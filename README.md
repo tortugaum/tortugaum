@@ -36,8 +36,6 @@
 </br>
 </br>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?tortugaum" frameborder="0"></iframe>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tortugaum)
 
 
