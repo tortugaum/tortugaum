@@ -14,7 +14,8 @@
 </br>
 
 ### My abilities
-👩‍💻 Languages 
+</br>
+## 👩‍💻 Languages 
 <img align="left" width="50px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align="left" width="50px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="left" width="50px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -23,13 +24,13 @@
 
 </br>
 </br>
-⚡ Database
+## ⚡ Database
 <img align="left" width="50px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </br>
 </br>
 
-:gem: Other
+## :gem: Other
 <img align="left" width="50px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img align="left" width="50px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align="left" width="50px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
