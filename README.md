@@ -8,7 +8,7 @@
 :video_game: When I'm not playing games /\ 
 
 
-##Contacts
+## Contacts
 [<img align="left" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 <img align="left" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>[()]
 
@@ -36,5 +36,5 @@
 </br>
 
 
-[linkedin] : https://www.linkedin.com/in/luiz-felipe-forcato-b88144188/
-[instagram] : https://www.instagram.com/luiz_felipe_f/
+[linkedin]: https://www.linkedin.com/in/luiz-felipe-forcato-b88144188
+[instagram]: https://www.instagram.com/luiz_felipe_f
