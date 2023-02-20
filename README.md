@@ -44,7 +44,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tortugaum)
 
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/tortugaum?label=Follow&style=social)](https://github.com/tortugaum)
 
 [linkedin]: https://www.linkedin.com/in/luiz-felipe-forcato-b88144188
 [instagram]: https://www.instagram.com/luiz_felipe_f
