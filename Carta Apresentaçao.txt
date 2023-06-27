@@ -1,0 +1,16 @@
+Dear Recruiter,
+
+I am writing this letter to express my great interest in becoming a Fullstack Developer at BlueSky as advertised on Indeed. My background in development goes as far as I started working professionaly apart from college projects, my expertise in the javascript stack since the beginning helped me a lot learning new frameworks as node, react or nextJs. I am confident in my ability to learn and contribute to the teams success delivering a high quality results.
+
+I have 4 years working as a developer, where I have helped greatly in my previous companies being the solo developer for a great module of a big costumer of ours. I also contributed a lot for all the teams I took part of, helping whenever someone needed and doing everything in my power to get the work done.
+
+I may not have the exact amount in years of experience to some of the qualifications mentioned but I do have a great motivation to learn everything needed to satisfy your expectations, taking some time after work to develop my knowledge on the matters.
+
+In my previous team I worked developing addons for SAP B1  using C#, during this period I developed  a great WMS for our biggest client at the time, helping them improve a lot of their internal proccess, during that time I also developed some web services and web applications using NodeJs and SAPUI5, doing some specific functions for our clients like a web application for Returning defective goods for a Governamental Company in my city.
+
+I am willing to embrace the opportunity to join BlueSky and contribute to the team. I belive my technical skills, dedication and passion will bring great results.
+
+Thank you for considering my application. I would welcome the opportunity to discuss about my skills and details of the role.
+
+Sincerely,
+Luiz Forcato
