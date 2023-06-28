@@ -1,4 +1,5 @@
 ## I'm Luiz 👨‍💻
+ I've been working with development for over 4 years, directly contributing to my team with analysis and ideas, during this time I also worked on multiple projects from small to big ones.
  Currently working as a **Fullstack Developer** working mainly with React, Node, Next, Docker and SQL. I have a **Bachelor of Computer Science** . I live in São José dos Campos, Brazil
 
 - :computer: I'm currently studying NextJS and Typescript
@@ -15,7 +16,6 @@
 ## My abilities
 ### 👩‍💻 Languages 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,docker,js,ts,html,css&perline=4)](https://skillicons.dev)
-<img align="left" alt="JavaScript" width="26px" 
 
 </br>
 
