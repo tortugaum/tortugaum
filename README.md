@@ -1,9 +1,8 @@
 ## I'm Luiz 👨‍💻
- Currently working as an **IT Analyst** acting as a full stack developer and support analyst. I am at my fourth and last year of **Computer Science** at **UNIP** . I live in São José dos Campos, Brazil
-## I'm a developer studying to be full stack
-- :computer: I'm currently studying c# (.net)
-- :snake: I want to study a little bit o python in the near future
-- :handshake: I hope I can collaborate with other developers
+ Currently working as a **Fullstack Developer** working mainly with React, Node, Next, Docker and SQL. I have a **Bachelor of Computer Science** . I live in São José dos Campos, Brazil
+
+- :computer: I'm currently studying NextJS and Typescript
+- :man_technologist: I am proficient in React, Node and SQL
 - :guitar: I also like to play the guitar in my free time
 - :video_game: When I'm not playing games /\ 
 
@@ -15,6 +14,7 @@
 
 ## My abilities
 ### 👩‍💻 Languages 
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,docker,js,ts,html,css)](https://skillicons.dev)
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
