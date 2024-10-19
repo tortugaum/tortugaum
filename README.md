@@ -1,10 +1,10 @@
 ## I'm Luiz 👨‍💻
 
-<p>I've been working with development for over 4 years, directly contributing to my team with analysis and ideas, during this time I've also worked on multiple projects from small to big ones.</p>
- <p>Currently working as a **Fullstack Developer** working mainly with React, Node, Next, Docker and SQL. I have a **Bachelor of Computer Science** . I live in São José dos Campos, Brazil</p>
+<p>I've been working with software developrmnet for almost 6 years now, directly contributing to designing and implementing innovation software, during this time I've also worked on multiple projects from smaller to bigger scales</p>
+ <p>Currently working as a **Fullstack Software Engineer** working mainly with React, Node, Next, Typescript, Electron, Docker and SQL. I have a **Bachelor of Computer Science** . I live in São José dos Campos, Brazil</p>
 
-- :computer: I'm currently studying NextJS and Typescript
-- :man_technologist: I am proficient in React, Node and SQL
+- :computer: I'm currently studying Python and AI
+- :man_technologist: I am proficient in React, Node, Next, Typescript, Electron, SQL
 - :guitar: I also like to play the guitar in my free time
 - :video_game: When I'm not playing games /\ 
 
