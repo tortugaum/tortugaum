@@ -1,7 +1,7 @@
 ## I'm Luiz 👨‍💻
 
 <p>I've been working with software developrmnet for almost 6 years now, directly contributing to designing and implementing innovation software, during this time I've also worked on multiple projects from smaller to bigger scales</p>
- <p>Currently working as a **Fullstack Software Engineer** working mainly with React, Node, Next, Typescript, Electron, Docker and SQL. I have a **Bachelor of Computer Science** . I live in São José dos Campos, Brazil</p>
+ <p>Currently working as a <b>Fullstack Software Engineer</b> working mainly with React, Node, Next, Typescript, Electron, Docker and SQL. I have a <b>Bachelor of Computer Science</b> . I live in São José dos Campos, Brazil</p>
 
 - :computer: I'm currently studying Python and AI
 - :man_technologist: I am proficient in React, Node, Next, Typescript, Electron, SQL
